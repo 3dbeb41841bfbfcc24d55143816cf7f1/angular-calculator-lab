@@ -1,4 +1,4 @@
-# LAB: Use AngularJS to create a Tic-Tac-Toe game in a CodePen
+# LAB: Use AngularJS to create a simple Calculator in a CodePen
 
 The purpose of this lab it to let the students get more practice with using an AngularJS controllers.
 The controller provides data and methods for the view to display and interact with.
